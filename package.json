@@ -1,0 +1,27 @@
+{
+  "name": "jsonstore.io",
+  "version": "0.1.0",
+  "description": "A node wrapper library for jsonstore.io api.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tilak999/jsonstore.io.git"
+  },
+  "keywords": [
+    "jsonstore",
+    "jsonstore.io",
+    "jsondb",
+    "json",
+    "cloud",
+    "nodedb"
+  ],
+  "author": "Tilak sasmal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tilak999/jsonstore.io/issues"
+  },
+  "homepage": "https://github.com/Tilak999/jsonstore.io#readme",
+  "dependencies": {
+    "fetch": "^0.3.6"
+  }
+}
