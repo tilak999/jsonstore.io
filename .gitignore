@@ -59,4 +59,5 @@ typings/
 
 #mac
 .DS_Store
+demo.js
 
