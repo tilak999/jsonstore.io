@@ -34,12 +34,12 @@ const TOKEN = '3c9622697a53d8b2f3cf825dc4160f7e1aad46c1a759475edeb76bce5cd33a64'
 let store = new jsonstore(TOKEN)
 
 // Reading data from any JSON object returns promise.
-store.read('Person').then((data)=>{
+store.read('Person').then( (data) => {
   console.log(data) // { "Age":56, "Email":"john@demo.com", "Name":"John Doe" }
 })
 
 // Value of any key can be accessed directly.
-store.read('Person/Name').then((data)=>{
+store.read('Person/Name').then( (data) => {
   console.log(data) // John Doe
 })
 ```
@@ -56,5 +56,5 @@ let store = new jsonstore(TOKEN)
 // Pass JSON key to delete.
 store.delete('Person/Name')
 ```
-If you don't pass any key to delete method then all the data would be deleted.<br/>i.e Root node will be deleted.
+If you don't pass any key to <b>delete</b> method then all the data would be deleted.<br/>i.e Root node will be deleted.
 
