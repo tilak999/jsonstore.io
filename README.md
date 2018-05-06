@@ -8,6 +8,10 @@ npm install --save jsonstore.io
 ## Examples
 Make sure to replace the TOKEN in the examples to your own TOKEN, that can be found at <a href='https://www.jsonstore.io/'>https://www.jsonstore.io/</a>.
 
+``` shell
+Eg. https://www.jsonstore.io/<TOKEN>
+```
+
 ### Write Data
 ```js
 var jsonstore = require('jsonstore.io')
