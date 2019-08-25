@@ -66,5 +66,5 @@ store.delete('Person/Name')
 If you don't pass any key to <b>delete</b> method then all the data would be deleted.<br/>i.e Root node will be deleted.
 
 ### License
-[MIT](blob/master/LICENSE)
+[MIT](LICENSE)
 
