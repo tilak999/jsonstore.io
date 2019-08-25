@@ -1,8 +1,8 @@
 {
   "name": "jsonstore.io",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "description": "A node wrapper library for jsonstore.io api.",
-  "main": "index.js",
+  "main": "./libs/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Tilak999/jsonstore.io.git"
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/Tilak999/jsonstore.io#readme",
   "dependencies": {
-    "fetch": "^0.3.6"
+    "fetch": "^1.1.0"
   }
 }
