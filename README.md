@@ -1,5 +1,5 @@
 ## jsonstore.io - Node Library
-A node wrapper library for <a href='https://jsonstore.io'>jsonstore.io</a>
+A node wrapper library for <a href='https://www.jsonstore.io'>www.jsonstore.io</a>
 
 ## Install
 ``` shell
