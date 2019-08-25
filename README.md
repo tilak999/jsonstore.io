@@ -1,5 +1,7 @@
 ## jsonstore.io - Node Library
 ![Travis CI](https://travis-ci.org/Tilak999/jsonstore.io.svg?branch=master)
+![Dependency](https://david-dm.org/tilak999/jsonstore.io.svg)
+
 A node wrapper library for <a href='https://www.jsonstore.io'>www.jsonstore.io</a>
 
 ## Install
@@ -62,4 +64,7 @@ let store = new jsonstore(TOKEN)
 store.delete('Person/Name')
 ```
 If you don't pass any key to <b>delete</b> method then all the data would be deleted.<br/>i.e Root node will be deleted.
+
+### License
+[MIT](blob/master/LICENSE)
 
