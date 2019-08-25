@@ -1,4 +1,5 @@
 ## jsonstore.io - Node Library
+![Travis CI](https://travis-ci.org/Tilak999/jsonstore.io.svg?branch=master)
 A node wrapper library for <a href='https://www.jsonstore.io'>www.jsonstore.io</a>
 
 ## Install
