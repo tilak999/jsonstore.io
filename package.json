@@ -1,6 +1,6 @@
 {
   "name": "jsonstore.io",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A node wrapper library for jsonstore.io api.",
   "main": "./libs/index.js",
   "repository": {
