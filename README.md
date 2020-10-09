@@ -4,8 +4,8 @@
 
 ~~A node wrapper library for <a href='https://www.jsonstore.io'>www.jsonstore.io</a>~~
 
-> jsonstore.io has been shutdown by the creator. If you are looking for an free object store for your projects, please check [jsonbase.com](jsonbase.com)
-> We have ported the jsonstore.io wrapper library with same API to use [jsonbase.com](jsonbase.com)
+> jsonstore.io has been shutdown by the creator. If you are looking for an free object store for your projects, check [jsonbase.com](jsonbase.com)
+> We have ported the jsonstore.io library with same APIs: [npm - jsonbase.com](https://www.npmjs.com/package/jsonbase.com)
 
 Links: 
 - [npm - jsonbase.com](https://www.npmjs.com/package/jsonbase.com)
