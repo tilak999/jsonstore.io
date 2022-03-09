@@ -1,10 +1,9 @@
 ## Dead: jsonstore.io - Node Library
 ![Travis CI](https://travis-ci.org/Tilak999/jsonstore.io.svg?branch=master)
-![Dependency](https://david-dm.org/tilak999/jsonstore.io.svg)
 
 ~~A node wrapper library for <a href='https://www.jsonstore.io'>www.jsonstore.io</a>~~
 
-> jsonstore.io has been shutdown by the creator. If you are looking for an free object store for your projects, check [jsonbase.com](jsonbase.com)
+> jsonstore.io has been shutdown by the creator. If you are looking for an free object store for your projects, check [jsonbase.com](https://jsonbase.com)
 > We have ported the jsonstore.io library with same APIs: [npm - jsonbase.com](https://www.npmjs.com/package/jsonbase.com)
 
 Links: 
